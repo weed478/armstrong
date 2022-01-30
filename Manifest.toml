@@ -1,0 +1,9 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.1"
+manifest_format = "2.0"
+
+[[deps.Primes]]
+git-tree-sha1 = "984a3ee07d47d401e0b823b7d30546792439070a"
+uuid = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
+version = "0.5.1"
